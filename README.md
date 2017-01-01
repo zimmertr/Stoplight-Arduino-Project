@@ -14,4 +14,4 @@ This is a small program that will linearly flash three LEDs to mimic an American
 [Video](https://www.youtube.com/watch?v=yIYRx2Hst7c)
 
 ### Schematic:
-![Alt text](https://raw.githubusercontent.com/zimmertr/Stoplight-Arduino-Project/master/Left-Right_LED_Flash-Schematic.jpg "Schematic")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Stoplight-Arduino-Project/master/Stoplight-Schematic.jpg "Schematic")
